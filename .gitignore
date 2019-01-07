@@ -76,3 +76,6 @@ typings/
 .fusebox/
 
 .idea/
+
+# macOS operating system file
+*.DS_Store
